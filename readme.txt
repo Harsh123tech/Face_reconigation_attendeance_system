@@ -1,4 +1,4 @@
-Hey! I am Kritika Srivastava.
+Hey! I am Harsh Anand
 I made this project for Microsoft Engage Mentorship Program.
 This is a face recognition based attendance system.
 I made this project using 
